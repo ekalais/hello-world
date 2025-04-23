@@ -1,5 +1,5 @@
 # hello-world
-ALIA Library Carpentaries demo content
+ALIA Library Carpentries demo content
 
 This is a standard paragraph.
 
